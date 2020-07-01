@@ -1,0 +1,120 @@
+body{
+    font-family: 'Roboto Slab', serif;
+    margin: 0px;
+}
+h1{
+    font-size: 50px;
+}
+h2{
+    font-size: 40px;
+}
+h3{
+   font-size: 30px;
+}
+.name-highlight{
+    color: rgb(199, 21, 88);
+
+}
+
+
+.half-width{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+    
+}
+.half-width img{
+    width: 100%;
+}
+
+.top-banner{
+    background-image: url("Images/header-bg.png");
+    background-repeat: no-repeat;
+    background-size: 100%;
+    background-position: left;
+    margin-bottom: 300px;
+
+}
+
+section{
+    height: 500px;
+}
+.link-button{
+    text-decoration: none;
+    color: white;
+    background-image:linear-gradient(45deg, #C71558, #C7000F );
+    border: 10px 50px;
+    border-radius: 5px;
+    margin-top: 10px;
+    margin-left: 0px;
+    padding: 10px;
+}
+.biography-section{
+    background-image: url("Images/biography-bg.png");
+    background-repeat: no-repeat;
+    background-position: left;
+    background-size: 100%;
+}
+#latest-work{
+    text-align: center;
+}
+.latest-work-section{
+    margin-top: 400px;
+    background-image: url("Images/latest-work-bg.png");
+    background-repeat: no-repeat;
+    background-position: left;
+    background-size: 100%;
+}
+.latest-work-images{
+    margin: 5% 5%;
+}
+.latest-work-images2{
+    width: 25%;
+    float: left;
+    margin-left: 6%;
+    padding: 0%;
+}
+.client-email-section{
+    
+    text-align: center;
+    margin-top: 100px;
+    background-image: url("Images/email-bg.png");
+    background-repeat: no-repeat;
+    background-position: left;
+    background-size: 100%;
+
+}
+.client{
+    text-align: center;
+    margin-top: 100px;
+}
+.email-addrees{
+    color: white;
+    background-image:linear-gradient(45deg, #C71558, #C7000F );
+    border: 5px 5px;
+    border-radius: 5px;
+    margin: 5% 20%;
+    padding: 10px;
+    box-shadow: 10px 10px 40px gray;
+    
+}
+footer{
+    margin-top: 200px;
+    background-color: gray;
+    text-align: center;
+   
+}
+  
+  
+  a:hover {
+    color: hotpink;
+  }
+  
+  
+  a:active {
+    color: blue;
+  }
+
+
+
